@@ -1,0 +1,1 @@
+# ---name-release-extension-uses-cli-gh-extension-precompile-v1.4.0-imo
